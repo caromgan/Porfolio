@@ -1,0 +1,38 @@
+ 
+       
+        body {
+  background-color:antiquewhite;
+  color: blue;
+}
+
+h1 {
+  background-color:bisque;
+  color:brown;
+}
+
+div {
+  background-color: blue;
+  color: white;
+}
+.disenoParrafo {
+
+    color: blueviolet;
+}
+ h2{
+            color:dodgerblue;
+        }
+        h3{
+
+            color: chocolate;
+            font-weight: 900;
+
+        }
+        p{
+            color:lightsalmon;
+            font-style: oblique;
+        }
+        #sobremi{
+            color: rgb(8, 123, 223);
+
+
+        }
