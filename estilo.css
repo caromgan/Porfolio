@@ -1,0 +1,50 @@
+ 
+       
+   
+body{
+background-image: url("https://img.freepik.com/vector-gratis/patron-geometrico-colorido-diseno-plano_23-2150514090.jpg?semt=ais_hybrid&w=740");
+ 
+}
+  
+
+h1 {
+  background-color:bisque;
+  color: black;  
+  border-style: solid;
+}
+
+div {
+  background-color: blue;
+  color: black;
+}
+.disenoParrafo {
+
+    color: black;
+}
+        h2{
+            
+            background-color:bisque;
+            color: black;  
+            border-style: solid;
+        }
+        h3{
+
+            background-color:bisque;
+            color: black;  
+            border-style: solid;
+          
+        }
+        p{
+            color: black;
+            font-style: oblique;
+        }
+
+        #sobremi{
+            background-color:bisque;
+            color: black;  
+            border-style: solid;
+        }
+        label {
+          color:darkorange;
+            font-style: oblique;
+        }
