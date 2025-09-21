@@ -1,0 +1,188 @@
+ 
+       
+   
+body{
+background-image: url("https://th.bing.com/th/id/OIP.IBcfG72ft6wDfesYejm4KAHaE_?w=266&h=180&c=7&r=0&o=5&pid=1.7");
+
+}
+
+  
+
+h1 {
+ 
+  color:rebeccapurple;  
+  text-align: center;
+  font-family: verdana;
+  font-size: 150px;
+  margin-left: 200px;
+  margin-right: 200px;
+  background-image: url("https://axonier-my.sharepoint.com/:i:/g/personal/carolina_gandin_axonier_com_ar/EZ7yh10AFoFEsc37qYax1cQBTmZ8Xadc6x2soVs27J_FPg?e=VhfNcf");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: scroll;
+  border-radius: 100px;
+  text-shadow: 7px 7px 9px whitesmoke;
+  
+
+
+}
+.Columnas {
+  column-count: 2;
+  background-image: url("https://image.freepik.com/fotos-gratis/fundo-liso-multiuso-rosa-claro-solido-vista-superior-configuracao-plana-formato-horizontal-tela-ampla_361486-21.jpg");
+  font-size: 15px;
+  color:dimgray;
+  text-align:center;
+  column-gap: 100px;
+  column-rule-style: solid;
+  column-rule-width: 1px;
+  column-rule-color:gray;
+}
+
+div {
+  background-color:violet;
+  color: black;
+  background-image: url("https://th.bing.com/th/id/OIP.-eIkUzUYueYPCQRKq_CBGwHaPN?w=115&h=180&c=7&r=0&o=5&pid=1.7");
+  border-radius: 10%;
+
+}
+
+.div2{    
+text-align:center;
+   background-color:violet;
+  color: black;
+  background-image: url("https://www.bing.com/th/id/OIP.SoG880TUDhIOJ0GYNOMUkQHaE5?w=245&h=211&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2");
+}
+
+
+.disenoParrafo {
+    border-style:outset;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color:dimgray;
+    text-align: center;
+    border-radius: 100px;
+    text-align:center; 
+}
+.cajas{
+  border: 5px solid grey;
+  padding: 15px 20px;
+  background-color:beige;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color:dimgray;
+    text-align: center;
+    border-radius: 100px;
+    
+}
+span {
+
+  font-size:30px;
+}
+#fotoPerfil {
+  width: 300px;
+  height: 300px;  
+  background-image: url('foto perfil.png');
+  background-position: center center;  
+   margin: 0 auto;
+   display: block;
+  margin-top: -100px; 
+ 
+}
+
+
+
+
+h2{
+    font-family:sans-serif;
+    font-size: 50px;
+    text-align:center;
+    background-color:beige;
+    color:lightcoral;  
+    border-style:outset;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 100px;
+          
+  }
+  
+  h3{
+
+    background-color:bisque;
+    color:mediumvioletred;  
+    border-style:inset;
+    border-radius: 100px;
+    font-family:sans-serif;
+    font-size: 30px;
+    text-align:center;
+    
+          
+    }
+
+    table {
+  margin: 0 auto; 
+  width: 60%; 
+}
+
+    tr{
+      text-align:center; 
+    }
+    td{
+      font-family:sans-serif;
+      font-size: 30px;
+      text-align:center; 
+    }
+    p{
+      font-family:sans-serif;
+      font-size: 30px;
+      text-align:center; 
+
+    }
+#sobremi{
+        background-color:bisque;
+        color:deeppink;  
+        border-width: thick;
+        font-family:sans-serif;
+        font-size: 40px;
+        text-align:center;
+        outline-style:dotted;
+        outline-color:deeppink;
+        text-shadow: 2px 2px 5px red;
+
+        }
+label {
+        color:blueviolet;
+        font-family:sans-serif;
+        font-style: oblique;
+        font-size: 25px;
+        text-align:center;
+        }
+        
+  input[type="text"] {
+  width: 100%;       /* Establece el ancho al 100% del contenedor */
+  padding: 5px;     /* Añade espacio dentro del campo */
+  box-sizing: border-box; /* Asegura que el padding no haga que el input se desborde */
+  border-radius: 15px; /* Bordes redondeados */
+  border: 1px solid #ccc; /* Borde suave */
+}
+
+#textComentario {
+  width: 100%; /* Hace que el campo ocupe todo el ancho disponible */
+  max-width: 1000px; /* Limita el ancho máximo */
+  padding: 15px; /* Aumenta el espacio interno para mayor comodidad */
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:dimgrey;
+}
+ul li a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
